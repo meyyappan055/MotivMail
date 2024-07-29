@@ -5,9 +5,6 @@ pymysql
 pytz
 python-dotenv
 aiosmtplib
-<<<<<<< HEAD
 jinja2
 apscheduler
-=======
 jinja2
->>>>>>> d407ca09c7a890b124cc11d310ecbee1441e2933
